@@ -1,2 +1,4 @@
 # Parnes_project
-Project D7017E
+Unity code for project D7017E
+
+See my (Claes) hobby code under branch SpaceSim
